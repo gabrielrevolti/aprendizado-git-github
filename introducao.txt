@@ -1,0 +1,2 @@
+git é uma ferramenta de versionamento de código, e é muito importante para um programador no dia a dia.
+github é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.
