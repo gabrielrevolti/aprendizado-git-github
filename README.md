@@ -1,1 +1,1 @@
-# aprendizado-git-github
+Solidificando conhecimentos de git e github.
