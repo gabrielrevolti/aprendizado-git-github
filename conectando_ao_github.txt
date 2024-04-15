@@ -1,0 +1,1 @@
+usando o git para colocar o código fonte, através do git clone e jogando as informações através do git push.
