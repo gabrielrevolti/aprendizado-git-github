@@ -1,0 +1,2 @@
+instalando o git e adicionando nome e email.
+adicionando a conta no github.
