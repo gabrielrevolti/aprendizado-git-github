@@ -1,0 +1,33 @@
+Principais comandos do git:
+
+## Logs
+
+- git log
+- git log —pretty=oneline
+- git log —pretty=oneline -1
+- git log —stat
+
+## Diff
+
+- git diff (visualizar as diferenças)
+- git diff <name>(git diff e o nome do arquivo específico)
+- git diff —name-only(apenas o nome dos arquivos alterados)
+
+## Desfazendo ações
+
+- git commit —amend (caso esqueça de adicionar algo ao commit)
+- git reset HEAD <name> (tira o arquivo do estado de stage)
+- git checkout — <name> (volta os dados do arquivo para o estado anterior)
+
+## Branches
+
+- git branch (pra ver as branches)
+- git branch <name> (pra criar uma branch)
+- git checkout <name> (pra entrar na branch)
+- git branch -d <name> (pra apagar uma branch)
+- git checkout -b <name> (para criar uma branch e entrar automaticamente)
+
+## Merge
+
+- git checkout master (para alterar para master, onde os arquivos serão recebidos)
+- git merge <name> (para receber os dados)
